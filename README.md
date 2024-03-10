@@ -16,7 +16,7 @@ Com um background em administração e marketing, minhas experiências em atendi
 ### 🛠️ Ferramentas e Tecnologias
 - **Figma:** Design de interfaces, prototipagem.
 - **Webflow:** Desenvolvimento web visual.
-- Outras habilidades incluem atendimento ao cliente e marketing.
+- Outras habilidades incluem marketing.
 
 ### 🤝 Vamos nos conectar!
 ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/rafael-silva-961086220)
