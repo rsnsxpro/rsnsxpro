@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael Silva 👋
+# Olá, eu sou Rafa 👋
 
 ## UX/UI Designer | Especialista em Figma e Webflow
 
